@@ -30,7 +30,7 @@ The application features a clean, intuitive interface for managing a list of set
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/AntonKhPI2/SettlementManager.git
+    git clone https://github.com/AntonHritsai/SettlementManager.git
     ```
 2.  **Open in Visual Studio:**
     Navigate to the cloned folder and open the `SettlementManager.sln` file in a recent version of Visual Studio.
